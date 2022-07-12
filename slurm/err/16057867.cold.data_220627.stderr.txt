@@ -1,0 +1,60 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 800
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+archiveDirectory        4              1              1
+total                   5              1              1
+
+Select jobs to execute...
+
+[Tue Jun 28 16:25:32 2022]
+Job 1: Archiving and compressing 210724_CNV018_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210724_CNV018_data.tar.zst
+
+Submitted job 1 with external jobid 'Submitted batch job 16057898'.
+
+[Tue Jun 28 16:25:32 2022]
+Job 2: Archiving and compressing 211020_CNV033_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211020_CNV033_data.tar.zst
+
+Submitted job 2 with external jobid 'Submitted batch job 16057899'.
+
+[Tue Jun 28 16:25:33 2022]
+Job 3: Archiving and compressing 210516_CNV007_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210516_CNV007_data.tar.zst
+
+Submitted job 3 with external jobid 'Submitted batch job 16057900'.
+
+[Tue Jun 28 16:25:34 2022]
+Job 4: Archiving and compressing 210807_CNV020_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210807_CNV020_data.tar.zst
+
+Submitted job 4 with external jobid 'Submitted batch job 16057901'.
+[Tue Jun 28 18:56:24 2022]
+Finished job 3.
+1 of 5 steps (20%) done
+[Tue Jun 28 19:45:08 2022]
+Finished job 4.
+2 of 5 steps (40%) done
+[Tue Jun 28 20:21:41 2022]
+Finished job 1.
+3 of 5 steps (60%) done
+[Tue Jun 28 21:08:25 2022]
+Finished job 2.
+4 of 5 steps (80%) done
+Select jobs to execute...
+
+[Tue Jun 28 21:08:25 2022]
+localrule all:
+    input: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210724_CNV018_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211020_CNV033_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210516_CNV007_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210807_CNV020_data.tar.zst
+    jobid: 0
+    reason: Input files updated by another job: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210516_CNV007_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210724_CNV018_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210807_CNV020_data.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211020_CNV033_data.tar.zst
+    resources: mem_mb=22589976, disk_mb=22589976, tmpdir=/tmp
+
+[Tue Jun 28 21:08:25 2022]
+Finished job 0.
+5 of 5 steps (100%) done
+Complete log: .snakemake/log/2022-06-28T162524.144286.snakemake.log

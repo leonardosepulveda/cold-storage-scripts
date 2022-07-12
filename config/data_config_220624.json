@@ -1,0 +1,15 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"10815_CNV022_data",
+		"181018_BC35_RNAseq",
+		"181029_BC037_MERFISH",
+		"181103_BC039_MERFISH",
+		"181217_BC042_smFISH"
+ 	]
+}

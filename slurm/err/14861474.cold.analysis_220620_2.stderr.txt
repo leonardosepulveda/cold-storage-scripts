@@ -1,0 +1,78 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 800
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+archiveDirectory        6              1              1
+total                   7              1              1
+
+Select jobs to execute...
+
+[Tue Jun 21 08:13:50 2022]
+Job 3: Archiving and compressing 211218_BC134
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211218_BC134.tar.zst
+
+Submitted job 3 with external jobid 'Submitted batch job 14861477'.
+
+[Tue Jun 21 08:13:50 2022]
+Job 5: Archiving and compressing 220307_BC142
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220307_BC142.tar.zst
+
+Submitted job 5 with external jobid 'Submitted batch job 14861478'.
+
+[Tue Jun 21 08:13:50 2022]
+Job 1: Archiving and compressing 211204_BC129
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211204_BC129.tar.zst
+
+Submitted job 1 with external jobid 'Submitted batch job 14861479'.
+
+[Tue Jun 21 08:13:50 2022]
+Job 2: Archiving and compressing 211210_BC132
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211210_BC132.tar.zst
+
+Submitted job 2 with external jobid 'Submitted batch job 14861480'.
+
+[Tue Jun 21 08:13:50 2022]
+Job 4: Archiving and compressing 220217_BC136
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220217_BC136.tar.zst
+
+Submitted job 4 with external jobid 'Submitted batch job 14861481'.
+
+[Tue Jun 21 08:13:50 2022]
+Job 6: Archiving and compressing 220308_BC143
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220308_BC143.tar.zst
+
+Submitted job 6 with external jobid 'Submitted batch job 14861482'.
+[Tue Jun 21 08:14:10 2022]
+Finished job 5.
+1 of 7 steps (14%) done
+[Tue Jun 21 08:23:01 2022]
+Finished job 6.
+2 of 7 steps (29%) done
+[Tue Jun 21 08:30:31 2022]
+Finished job 2.
+3 of 7 steps (43%) done
+[Tue Jun 21 08:35:12 2022]
+Finished job 3.
+4 of 7 steps (57%) done
+[Tue Jun 21 09:08:54 2022]
+Finished job 4.
+5 of 7 steps (71%) done
+[Tue Jun 21 09:57:28 2022]
+Finished job 1.
+6 of 7 steps (86%) done
+Select jobs to execute...
+
+[Tue Jun 21 09:57:28 2022]
+localrule all:
+    input: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211204_BC129.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211210_BC132.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211218_BC134.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220217_BC136.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220307_BC142.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220308_BC143.tar.zst
+    jobid: 0
+    reason: Input files updated by another job: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211218_BC134.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220217_BC136.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220308_BC143.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211210_BC132.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/211204_BC129.tar.zst, /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220307_BC142.tar.zst
+    resources: mem_mb=262957, disk_mb=262957, tmpdir=/tmp
+
+[Tue Jun 21 09:57:28 2022]
+Finished job 0.
+7 of 7 steps (100%) done
+Complete log: .snakemake/log/2022-06-21T081344.948440.snakemake.log

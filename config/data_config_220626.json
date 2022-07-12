@@ -1,0 +1,18 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"181223_BC045_MERFISH",   
+		"190210_BC048_MERFISH",   
+		"190812_BC064_MERFISH",  
+		"20180727_CC_transcriptome",
+		"190103_CC009_scRNAseq",  
+		"190314_CC011_scRNAseq",  
+		"200706_CC039_MERFISH",  
+		"210109_BC107_data"
+ 	]
+}

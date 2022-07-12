@@ -1,0 +1,93 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 800
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+archiveDirectory        8              1              1
+total                   9              1              1
+
+Select jobs to execute...
+
+[Wed Jun 22 10:30:14 2022]
+Job 3: Archiving and compressing 220328_BC152
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220328_BC152.tar.zst
+
+Submitted job 3 with external jobid 'Submitted batch job 15000549'.
+
+[Wed Jun 22 10:30:14 2022]
+Job 5: Archiving and compressing 220411_BC158
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220411_BC158.tar.zst
+
+Submitted job 5 with external jobid 'Submitted batch job 15000551'.
+
+[Wed Jun 22 10:30:14 2022]
+Job 7: Archiving and compressing 220503_BC167
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220503_BC167.tar.zst
+
+Submitted job 7 with external jobid 'Submitted batch job 15000555'.
+
+[Wed Jun 22 10:30:15 2022]
+Job 1: Archiving and compressing 220321_BC147
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220321_BC147.tar.zst
+
+Submitted job 1 with external jobid 'Submitted batch job 15000558'.
+
+[Wed Jun 22 10:30:15 2022]
+Job 2: Archiving and compressing 220321_BC148
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220321_BC148.tar.zst
+
+Submitted job 2 with external jobid 'Submitted batch job 15000561'.
+
+[Wed Jun 22 10:30:15 2022]
+Job 4: Archiving and compressing 220405_BC154
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220405_BC154.tar.zst
+
+Submitted job 4 with external jobid 'Submitted batch job 15000563'.
+
+[Wed Jun 22 10:30:15 2022]
+Job 6: Archiving and compressing 220428_BC162
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220428_BC162.tar.zst
+
+Submitted job 6 with external jobid 'Submitted batch job 15000566'.
+
+[Wed Jun 22 10:30:16 2022]
+Job 8: Archiving and compressing 220526_BC173
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220526_BC173.tar.zst
+
+Submitted job 8 with external jobid 'Submitted batch job 15000569'.
+[Wed Jun 22 10:31:54 2022]
+Finished job 5.
+1 of 9 steps (11%) done
+[Wed Jun 22 10:33:14 2022]
+Finished job 1.
+2 of 9 steps (22%) done
+[Wed Jun 22 10:33:44 2022]
+Finished job 4.
+3 of 9 steps (33%) done
+[Wed Jun 22 10:34:34 2022]
+Finished job 8.
+4 of 9 steps (44%) done
+[Wed Jun 22 10:34:44 2022]
+Finished job 7.
+5 of 9 steps (56%) done
+[Wed Jun 22 10:40:25 2022]
+Finished job 3.
+6 of 9 steps (67%) done
+[Wed Jun 22 10:42:05 2022]
+Finished job 2.
+7 of 9 steps (78%) done
+[Thu Jun 23 00:03:49 2022]
+Error in rule archiveDirectory:
+    jobid: 6
+    output: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220428_BC162.tar.zst
+    shell:
+        time tar -cf - /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/analysis/220428_BC162/ | zstd -1 -T6 - > /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/220428_BC162.tar.zst
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+    cluster_jobid: Submitted batch job 15000566
+
+Error executing rule archiveDirectory on cluster (jobid: 6, external: Submitted batch job 15000566, jobscript: /n/home06/lsepulvedaduran/Software/cold-storage-scripts/slurm/submit/.snakemake/tmp.d7l4ztvp/snakejob.archiveDirectory.6.sh). For error details see the cluster log and the log files of the involved rule(s).
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2022-06-22T103009.396518.snakemake.log

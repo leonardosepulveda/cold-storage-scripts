@@ -1,0 +1,14 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"210416_CNV006_data",
+		"210526_CNV009_data",
+		"211124_CNV036_data",
+		"220308_BC143_data"
+ 	]
+}

@@ -1,0 +1,16 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/analysis/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/"
+	},
+	"datasetNames" :
+	[
+		"211204_BC129",
+		"211210_BC132",
+		"211218_BC134",
+		"220217_BC136",
+		"220307_BC142",
+		"220308_BC143"
+ 	]
+}

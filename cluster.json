@@ -1,0 +1,13 @@
+{
+    "__default__" :
+    {
+        "account" : "zhuang_lab",
+        "time" : "1-00:00:00",
+        "n" : 6,
+        "partition" : "zhuang,shared",
+        "mem" : 20000,
+        "exclude": "",
+        "out" : "/n/home06/lsepulvedaduran/Scratch/%j.cold.stdout.txt",
+        "err" : "/n/home06/lsepulvedaduran/Scratch/%j.cold.stderr.txt"
+    }
+}

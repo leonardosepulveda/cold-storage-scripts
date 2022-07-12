@@ -1,0 +1,12 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/analysis/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/analysis/"
+	},
+	"datasetNames" :
+	[
+		"190812_BC064_MERFISH",
+		"210206_BC110_data"
+ 	]
+}
