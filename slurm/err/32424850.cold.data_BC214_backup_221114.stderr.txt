@@ -1,0 +1,132 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 800
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+archiveDirectory       12              1              1
+total                  13              1              1
+
+Select jobs to execute...
+
+[Mon Nov 14 10:48:06 2022]
+Job 2: Archiving and compressing BC214_sample_01_mir_005_new_cellpose_params_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_mir_005_new_cellpose_params_merlin.tar.zst
+
+Submitted job 2 with external jobid 'Submitted batch job 32424883'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 3: Archiving and compressing BC214_sample_02_data
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_data.tar.zst
+
+Submitted job 3 with external jobid 'Submitted batch job 32424884'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 5: Archiving and compressing BC214_sample_02_subset_01_data
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_data.tar.zst
+
+Submitted job 5 with external jobid 'Submitted batch job 32424885'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 7: Archiving and compressing BC214_sample_02_subset_02_data
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_data.tar.zst
+
+Submitted job 7 with external jobid 'Submitted batch job 32424886'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 9: Archiving and compressing BC214_sample_02_subset_03_data
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_data.tar.zst
+
+Submitted job 9 with external jobid 'Submitted batch job 32424887'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 11: Archiving and compressing BC214_sample_03_data
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_data.tar.zst
+
+Submitted job 11 with external jobid 'Submitted batch job 32424888'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 1: Archiving and compressing BC214_sample_01_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_merlin.tar.zst
+
+Submitted job 1 with external jobid 'Submitted batch job 32424889'.
+
+[Mon Nov 14 10:48:07 2022]
+Job 4: Archiving and compressing BC214_sample_02_mir_005_new_cellpose_params_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_mir_005_new_cellpose_params_merlin.tar.zst
+
+Submitted job 4 with external jobid 'Submitted batch job 32424890'.
+
+[Mon Nov 14 10:48:08 2022]
+Job 6: Archiving and compressing BC214_sample_02_subset_01_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_merlin.tar.zst
+
+Submitted job 6 with external jobid 'Submitted batch job 32424891'.
+
+[Mon Nov 14 10:48:08 2022]
+Job 8: Archiving and compressing BC214_sample_02_subset_02_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_merlin.tar.zst
+
+Submitted job 8 with external jobid 'Submitted batch job 32424892'.
+
+[Mon Nov 14 10:48:08 2022]
+Job 10: Archiving and compressing BC214_sample_02_subset_03_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_merlin.tar.zst
+
+Submitted job 10 with external jobid 'Submitted batch job 32424893'.
+
+[Mon Nov 14 10:48:08 2022]
+Job 12: Archiving and compressing BC214_sample_03_merlin
+Reason: Missing output files: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_merlin.tar.zst
+
+Submitted job 12 with external jobid 'Submitted batch job 32424894'.
+[Mon Nov 14 10:59:07 2022]
+Finished job 10.
+1 of 13 steps (8%) done
+[Mon Nov 14 11:06:27 2022]
+Finished job 6.
+2 of 13 steps (15%) done
+[Mon Nov 14 11:08:17 2022]
+Finished job 7.
+3 of 13 steps (23%) done
+[Mon Nov 14 11:09:58 2022]
+Finished job 8.
+4 of 13 steps (31%) done
+[Mon Nov 14 11:10:38 2022]
+Finished job 5.
+5 of 13 steps (38%) done
+[Mon Nov 14 11:14:19 2022]
+Finished job 9.
+6 of 13 steps (46%) done
+[Mon Nov 14 11:15:59 2022]
+Finished job 2.
+7 of 13 steps (54%) done
+[Mon Nov 14 11:15:59 2022]
+Finished job 12.
+8 of 13 steps (62%) done
+[Mon Nov 14 11:30:30 2022]
+Finished job 1.
+9 of 13 steps (69%) done
+[Mon Nov 14 11:40:11 2022]
+Finished job 11.
+10 of 13 steps (77%) done
+[Mon Nov 14 12:24:25 2022]
+Finished job 3.
+11 of 13 steps (85%) done
+[Mon Nov 14 13:05:08 2022]
+Finished job 4.
+12 of 13 steps (92%) done
+Select jobs to execute...
+
+[Mon Nov 14 13:05:08 2022]
+localrule all:
+    input: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_mir_005_new_cellpose_params_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_mir_005_new_cellpose_params_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_merlin.tar.zst
+    jobid: 0
+    reason: Input files updated by another job: /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_03_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_mir_005_new_cellpose_params_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_01_mir_005_new_cellpose_params_merlin.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_03_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_02_data.tar.zst, /n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/BC214_sample_02_subset_01_merlin.tar.zst
+    resources: mem_mb=7312264, disk_mb=7312264, tmpdir=/tmp
+
+[Mon Nov 14 13:05:08 2022]
+Finished job 0.
+13 of 13 steps (100%) done
+Complete log: .snakemake/log/2022-11-14T104752.872375.snakemake.log

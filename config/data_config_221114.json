@@ -1,0 +1,19 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holyscratch01/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"201222_BC106_data",  
+		"20190217_sample4A",  
+		"220503_BC167",  
+		"220826_BC205_data",  
+		"220910_BC208_data",  
+		"220914_BC209_data",  
+		"220927_BC212_data",  
+		"221004_BC213_data",  
+		"PuData"
+ 	]
+}

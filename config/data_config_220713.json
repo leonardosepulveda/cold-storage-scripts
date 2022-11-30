@@ -1,0 +1,12 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holyscratch01/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"BC184_data",
+		"BC185_data"
+ 	]
+}

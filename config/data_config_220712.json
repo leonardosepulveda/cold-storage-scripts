@@ -1,0 +1,40 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"181018_BC35_RNAseq",   
+		"210713_BC118_data",   
+		"210915_BC122_data",   
+		"211204_CNV038_data",                 
+		"220331_BC150_data",   
+		"Genomes",
+		"181217_BC042_smFISH",  
+		"210714_BC119_data",   
+		"211004_CNV030_data",  
+		"211210_BC132_data",                  
+		"220408_BC156_data",   
+		"LibraryConstruction",
+		"210109_BC107_data",    
+		"210728_BC120_data",  
+		"211011_CNV032_data",  
+		"220307_BC142_data_MERFISH_Harvard",  
+		"220419_CNV046_data",  
+		"RNAseqDataBC",
+		"210622_BC116_data",    
+		"210823_BC121_data",   
+		"211202_CNV037_data", 
+		"220321_BC148_data",                  
+		"220506_BC168_data",   
+		"scDataBC",
+		"210627_BC117_data",   
+		"210910_CNV026_data",  
+		"211204_BC129_data",   
+		"220330_BC149_data",                  
+		"data",                
+		"SequenceDatabases"
+ 	]
+}

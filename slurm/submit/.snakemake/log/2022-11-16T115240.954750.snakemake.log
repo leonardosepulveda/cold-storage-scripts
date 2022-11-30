@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in line 14 of /n/home06/lsepulvedaduran/Software/cold-storage-scripts/archive.snakefile:
+Missing input files for rule archiveDirectory:
+    output: /n/holylfs05/LABS/zhuang_lab/Lab/shared/tape/BC222_sample_01_data.tar.zst
+    wildcards: datasetName=BC222_sample_01_data
+    affected files:
+        /n/holyscratch01/LABS/zhuang_lab/Lab/shared/data/BC222_sample_01_data

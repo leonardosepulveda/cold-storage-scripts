@@ -1,0 +1,52 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/data/",
+		"destPath" : "/n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/"
+	},
+	"datasetNames" :
+	[
+		"180207_BreastCancer_019_smFISH_MEF",  
+		"190210_BC048_MERFISH",  
+		"190812_BC064_MERFISH",               
+		"210627_BC117_data",  
+		"211018_BC126_data",  
+		"220425_BC160",
+		"180314_BreastCancer_025_MERFISH",
+		"190425_BC049_MERFISH",
+		"190822_BC066_PipelineTests",
+		"210713_BC118_data",  
+		"211204_BC129_data", 
+		"220506_BC168_data",
+		"180330_BC027_MERFISH",
+		"190506_BC051_MERFISH", 
+		"190911_BC067_MERlinFiltering",       
+		"210714_BC119_data",
+		"211210_BC132_data",
+		"220802_BC196_data",
+		"180910_BC029",
+		"190528_BC053_MERFISH",
+		"191212_BC071_MERFISH",               
+		"210728_BC120_data",  
+		"220321_BC148_data",  
+		"220927_BC212_data",
+		"181029_BC037_MERFISH",
+		"190609_BC057_MERFISH", 
+		"200113_TestingChromaticAberration",  
+		"210823_BC121_data",  
+		"220330_BC149_data",  
+		"BC028",
+		"181103_BC039_MERFISH",                
+		"190620_BC060_RNAseq",   
+		"210109_BC107_data",                  
+		"210915_BC122_data",  
+		"220331_BC150_data",  
+		"cancer",
+		"190106_BC046_MERFISH",               
+		"190719_BC062_MERFISH",  
+		"210622_BC116_data",                  
+		"211008_BC124_data",  
+		"220408_BC156_data",  
+		"RNAseqDataBC"
+ 	]
+}

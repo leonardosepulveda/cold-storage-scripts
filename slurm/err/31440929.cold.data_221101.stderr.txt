@@ -1,0 +1,387 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cluster nodes: 800
+Job stats:
+job                 count    min threads    max threads
+----------------  -------  -------------  -------------
+all                     1              1              1
+archiveDirectory       42              1              1
+total                  43              1              1
+
+Select jobs to execute...
+
+[Tue Nov  1 18:39:04 2022]
+Job 15: Archiving and compressing 190911_BC067_MERlinFiltering
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190911_BC067_MERlinFiltering.tar.zst
+
+Submitted job 15 with external jobid 'Submitted batch job 31440934'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 1: Archiving and compressing 180207_BreastCancer_019_smFISH_MEF
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/180207_BreastCancer_019_smFISH_MEF.tar.zst
+
+Submitted job 1 with external jobid 'Submitted batch job 31440935'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 30: Archiving and compressing BC028
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/BC028.tar.zst
+
+Submitted job 30 with external jobid 'Submitted batch job 31440936'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 23: Archiving and compressing 220321_BC148_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220321_BC148_data.tar.zst
+
+Submitted job 23 with external jobid 'Submitted batch job 31440937'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 8: Archiving and compressing 190425_BC049_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190425_BC049_MERFISH.tar.zst
+
+Submitted job 8 with external jobid 'Submitted batch job 31440938'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 38: Archiving and compressing 190719_BC062_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190719_BC062_MERFISH.tar.zst
+
+Submitted job 38 with external jobid 'Submitted batch job 31440939'.
+
+[Tue Nov  1 18:39:05 2022]
+Job 16: Archiving and compressing 210714_BC119_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210714_BC119_data.tar.zst
+
+Submitted job 16 with external jobid 'Submitted batch job 31440940'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 31: Archiving and compressing 181103_BC039_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/181103_BC039_MERFISH.tar.zst
+
+Submitted job 31 with external jobid 'Submitted batch job 31440941'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 24: Archiving and compressing 220927_BC212_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220927_BC212_data.tar.zst
+
+Submitted job 24 with external jobid 'Submitted batch job 31440942'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 9: Archiving and compressing 190822_BC066_PipelineTests
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190822_BC066_PipelineTests.tar.zst
+
+Submitted job 9 with external jobid 'Submitted batch job 31440943'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 39: Archiving and compressing 210622_BC116_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210622_BC116_data.tar.zst
+
+Submitted job 39 with external jobid 'Submitted batch job 31440944'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 17: Archiving and compressing 211210_BC132_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211210_BC132_data.tar.zst
+
+Submitted job 17 with external jobid 'Submitted batch job 31440945'.
+
+[Tue Nov  1 18:39:06 2022]
+Job 2: Archiving and compressing 190210_BC048_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190210_BC048_MERFISH.tar.zst
+
+Submitted job 2 with external jobid 'Submitted batch job 31440953'.
+
+[Tue Nov  1 18:39:08 2022]
+Job 32: Archiving and compressing 190620_BC060_RNAseq
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190620_BC060_RNAseq.tar.zst
+
+Submitted job 32 with external jobid 'Submitted batch job 31440954'.
+
+[Tue Nov  1 18:39:08 2022]
+Job 25: Archiving and compressing 181029_BC037_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/181029_BC037_MERFISH.tar.zst
+
+Submitted job 25 with external jobid 'Submitted batch job 31440957'.
+
+[Tue Nov  1 18:39:12 2022]
+Job 10: Archiving and compressing 210713_BC118_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210713_BC118_data.tar.zst
+
+Submitted job 10 with external jobid 'Submitted batch job 31440958'.
+
+[Tue Nov  1 18:39:14 2022]
+Job 40: Archiving and compressing 211008_BC124_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211008_BC124_data.tar.zst
+
+Submitted job 40 with external jobid 'Submitted batch job 31440959'.
+
+[Tue Nov  1 18:39:15 2022]
+Job 18: Archiving and compressing 220802_BC196_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220802_BC196_data.tar.zst
+
+Submitted job 18 with external jobid 'Submitted batch job 31440969'.
+
+[Tue Nov  1 18:39:18 2022]
+Job 3: Archiving and compressing 190812_BC064_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190812_BC064_MERFISH.tar.zst
+
+Submitted job 3 with external jobid 'Submitted batch job 31440970'.
+
+[Tue Nov  1 18:39:19 2022]
+Job 33: Archiving and compressing 210109_BC107_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210109_BC107_data.tar.zst
+
+Submitted job 33 with external jobid 'Submitted batch job 31440980'.
+
+[Tue Nov  1 18:39:22 2022]
+Job 26: Archiving and compressing 190609_BC057_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190609_BC057_MERFISH.tar.zst
+
+Submitted job 26 with external jobid 'Submitted batch job 31440984'.
+
+[Tue Nov  1 18:39:24 2022]
+Job 11: Archiving and compressing 211204_BC129_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211204_BC129_data.tar.zst
+
+Submitted job 11 with external jobid 'Submitted batch job 31440985'.
+
+[Tue Nov  1 18:39:24 2022]
+Job 41: Archiving and compressing 220408_BC156_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220408_BC156_data.tar.zst
+
+Submitted job 41 with external jobid 'Submitted batch job 31440986'.
+
+[Tue Nov  1 18:39:24 2022]
+Job 19: Archiving and compressing 180910_BC029
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/180910_BC029.tar.zst
+
+Submitted job 19 with external jobid 'Submitted batch job 31440987'.
+
+[Tue Nov  1 18:39:26 2022]
+Job 4: Archiving and compressing 210627_BC117_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210627_BC117_data.tar.zst
+
+Submitted job 4 with external jobid 'Submitted batch job 31440988'.
+
+[Tue Nov  1 18:39:29 2022]
+Job 34: Archiving and compressing 210915_BC122_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210915_BC122_data.tar.zst
+
+Submitted job 34 with external jobid 'Submitted batch job 31440990'.
+
+[Tue Nov  1 18:39:30 2022]
+Job 27: Archiving and compressing 200113_TestingChromaticAberration
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/200113_TestingChromaticAberration.tar.zst
+
+Submitted job 27 with external jobid 'Submitted batch job 31440991'.
+
+[Tue Nov  1 18:39:30 2022]
+Job 12: Archiving and compressing 220506_BC168_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220506_BC168_data.tar.zst
+
+Submitted job 12 with external jobid 'Submitted batch job 31440993'.
+
+[Tue Nov  1 18:39:32 2022]
+Job 42: Archiving and compressing RNAseqDataBC
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/RNAseqDataBC.tar.zst
+
+Submitted job 42 with external jobid 'Submitted batch job 31440994'.
+
+[Tue Nov  1 18:39:34 2022]
+Job 20: Archiving and compressing 190528_BC053_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190528_BC053_MERFISH.tar.zst
+
+Submitted job 20 with external jobid 'Submitted batch job 31440997'.
+
+[Tue Nov  1 18:39:35 2022]
+Job 5: Archiving and compressing 211018_BC126_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/211018_BC126_data.tar.zst
+
+Submitted job 5 with external jobid 'Submitted batch job 31440998'.
+
+[Tue Nov  1 18:39:35 2022]
+Job 35: Archiving and compressing 220331_BC150_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220331_BC150_data.tar.zst
+
+Submitted job 35 with external jobid 'Submitted batch job 31440999'.
+
+[Tue Nov  1 18:39:35 2022]
+Job 28: Archiving and compressing 210823_BC121_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210823_BC121_data.tar.zst
+
+Submitted job 28 with external jobid 'Submitted batch job 31441000'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 13: Archiving and compressing 180330_BC027_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/180330_BC027_MERFISH.tar.zst
+
+Submitted job 13 with external jobid 'Submitted batch job 31441001'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 21: Archiving and compressing 191212_BC071_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/191212_BC071_MERFISH.tar.zst
+
+Submitted job 21 with external jobid 'Submitted batch job 31441002'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 6: Archiving and compressing 220425_BC160
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220425_BC160.tar.zst
+
+Submitted job 6 with external jobid 'Submitted batch job 31441003'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 36: Archiving and compressing cancer
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/cancer.tar.zst
+
+Submitted job 36 with external jobid 'Submitted batch job 31441004'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 29: Archiving and compressing 220330_BC149_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/220330_BC149_data.tar.zst
+
+Submitted job 29 with external jobid 'Submitted batch job 31441005'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 14: Archiving and compressing 190506_BC051_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190506_BC051_MERFISH.tar.zst
+
+Submitted job 14 with external jobid 'Submitted batch job 31441006'.
+
+[Tue Nov  1 18:39:36 2022]
+Job 22: Archiving and compressing 210728_BC120_data
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/210728_BC120_data.tar.zst
+
+Submitted job 22 with external jobid 'Submitted batch job 31441007'.
+
+[Tue Nov  1 18:39:37 2022]
+Job 7: Archiving and compressing 180314_BreastCancer_025_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/180314_BreastCancer_025_MERFISH.tar.zst
+
+Submitted job 7 with external jobid 'Submitted batch job 31441008'.
+
+[Tue Nov  1 18:39:37 2022]
+Job 37: Archiving and compressing 190106_BC046_MERFISH
+Reason: Missing output files: /n/holylfs04/LABS/zhuang_lab/Users/lsepulvedaduran/ToTape/data/190106_BC046_MERFISH.tar.zst
+
+Submitted job 37 with external jobid 'Submitted batch job 31441009'.
+[Tue Nov  1 18:39:37 2022]
+Finished job 8.
+1 of 43 steps (2%) done
+[Tue Nov  1 18:39:37 2022]
+Finished job 31.
+2 of 43 steps (5%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 24.
+3 of 43 steps (7%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 15.
+4 of 43 steps (9%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 30.
+5 of 43 steps (12%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 38.
+6 of 43 steps (14%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 9.
+7 of 43 steps (16%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 2.
+8 of 43 steps (19%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 32.
+9 of 43 steps (21%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 25.
+10 of 43 steps (23%) done
+[Tue Nov  1 18:39:38 2022]
+Finished job 3.
+11 of 43 steps (26%) done
+[Tue Nov  1 18:39:51 2022]
+Finished job 26.
+12 of 43 steps (28%) done
+[Tue Nov  1 18:39:52 2022]
+Finished job 27.
+13 of 43 steps (30%) done
+[Tue Nov  1 18:39:52 2022]
+Finished job 42.
+14 of 43 steps (33%) done
+[Tue Nov  1 18:39:52 2022]
+Finished job 20.
+15 of 43 steps (35%) done
+[Tue Nov  1 18:39:52 2022]
+Finished job 5.
+16 of 43 steps (37%) done
+[Tue Nov  1 18:39:53 2022]
+Finished job 13.
+17 of 43 steps (40%) done
+[Tue Nov  1 18:39:53 2022]
+Finished job 21.
+18 of 43 steps (42%) done
+[Tue Nov  1 18:40:03 2022]
+Finished job 37.
+19 of 43 steps (44%) done
+[Tue Nov  1 18:40:05 2022]
+Finished job 36.
+20 of 43 steps (47%) done
+[Tue Nov  1 18:40:06 2022]
+Finished job 29.
+21 of 43 steps (49%) done
+[Tue Nov  1 18:40:06 2022]
+Finished job 14.
+22 of 43 steps (51%) done
+[Tue Nov  1 18:40:17 2022]
+Finished job 7.
+23 of 43 steps (53%) done
+[Tue Nov  1 18:41:34 2022]
+Finished job 19.
+24 of 43 steps (56%) done
+[Tue Nov  1 18:42:07 2022]
+Finished job 1.
+25 of 43 steps (58%) done
+[Tue Nov  1 18:42:19 2022]
+Finished job 6.
+26 of 43 steps (60%) done
+[Tue Nov  1 18:46:21 2022]
+Finished job 35.
+27 of 43 steps (63%) done
+[Tue Nov  1 18:47:06 2022]
+Finished job 12.
+28 of 43 steps (65%) done
+[Tue Nov  1 18:50:01 2022]
+Finished job 41.
+29 of 43 steps (67%) done
+[Tue Nov  1 18:52:57 2022]
+Finished job 16.
+30 of 43 steps (70%) done
+[Tue Nov  1 19:05:49 2022]
+Finished job 28.
+31 of 43 steps (72%) done
+[Tue Nov  1 19:25:15 2022]
+Finished job 10.
+32 of 43 steps (74%) done
+[Tue Nov  1 19:34:48 2022]
+Finished job 39.
+33 of 43 steps (77%) done
+[Tue Nov  1 19:38:29 2022]
+Finished job 17.
+34 of 43 steps (79%) done
+[Tue Nov  1 19:48:10 2022]
+Finished job 23.
+35 of 43 steps (81%) done
+[Tue Nov  1 19:59:51 2022]
+Finished job 4.
+36 of 43 steps (84%) done
+[Tue Nov  1 20:43:35 2022]
+Finished job 22.
+37 of 43 steps (86%) done
+[Tue Nov  1 20:54:06 2022]
+Finished job 11.
+38 of 43 steps (88%) done
+[Tue Nov  1 21:18:48 2022]
+Finished job 18.
+39 of 43 steps (91%) done
+[Tue Nov  1 23:04:35 2022]
+Finished job 34.
+40 of 43 steps (93%) done
+[Wed Nov  2 00:28:12 2022]
+Finished job 40.
+41 of 43 steps (95%) done
+slurmstepd: error: *** JOB 31440929 ON holy7c23101 CANCELLED AT 2022-11-03T18:38:58 DUE TO TIME LIMIT ***

@@ -1,0 +1,29 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holylfs04/LABS/zhuang_lab/Lab/shared/data/",
+		"destPath" : "/n/holylfs05/LABS/zhuang_lab/Lab/shared/toTape/"
+	},
+	"datasetNames" :
+	[
+		"BC214_sample_01_data",
+		"BC214_sample_02_data",
+		"BC214_sample_03_data",
+		"BC214_sample_06_data",
+		"BC214_sample_08_data",
+		"BC216_sample_01_data",
+		"BC216_sample_02_data",
+		"BC216_sample_03_data",
+		"BC216_sample_05_data",
+		"BC216_sample_06_data",
+		"BC217_sample_01_data",
+		"BC217_sample_02_data",
+		"BC217_sample_04_data",
+		"BC217_sample_05_data",
+		"BC220_sample_00_data",
+		"BC220_sample_01_data",
+		"BC220_sample_02_data",
+		"BC220_sample_03_data",
+		"BC220_sample_05_data"
+ 	]
+}

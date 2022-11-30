@@ -1,0 +1,39 @@
+{
+	"Paths" :
+	{
+		"srcPath" : "/n/holyscratch01/zhuang_lab/Lab/shared/",
+		"destPath" : "/n/holylfs05/LABS/zhuang_lab/Lab/shared/tape/"
+	},
+	"datasetNames" :
+	[
+		"BC222_sample_01_data",
+		"BC222_sample_02_data",
+		"BC222_sample_03_data",
+		"BC106_sample_02_mir_005_new_cellpose_params_merlin",
+		"BC106_sample_04_mir_005_new_cellpose_params_merlin",
+		"BC213_sample_ICS2_mir_005_new_cellpose_params_merlin",
+		"BC214_sample_01_mir_005_new_cellpose_params_merlin",
+		"BC214_sample_02_mir_005_new_cellpose_params_merlin",
+		"BC214_sample_02_subset_01_merlin",
+		"BC214_sample_02_subset_02_merlin",
+		"BC214_sample_02_subset_03_merlin",
+		"BC216_sample_01_mir_005_new_cellpose_params_merlin",
+		"BC216_sample_02_new_cellpose_params_merlin",
+		"BC216_sample_03_merlin",
+		"BC216_sample_03_mir_005_new_cellpose_params_merlin",
+		"BC216_sample_05_merlin",
+		"BC216_sample_05_mir_005_new_cellpose_params_merlin",
+		"BC216_sample_06_mir_005_new_cellpose_params_merlin",
+		"BC217_sample_01_new_cellpose_params_merlin",
+		"BC217_sample_02_merlin",
+		"BC217_sample_04_new_cellpose_params_merlin",
+		"BC220_sample_00_new_cellpose_params_merlin",
+		"BC220_sample_01_new_cellpose_params_merlin",
+		"BC220_sample_02_new_cellpose_params_merlin",
+		"BC220_sample_03_new_cellpose_params_merlin",
+		"BC220_sample_05_new_cellpose_params_merlin",
+		"BC222_sample_01_new_cellpose_params_merlin",
+		"BC222_sample_02_new_cellpose_params_merlin",
+		"BC222_sample_03_new_cellpose_params_merlin"
+ 	]
+}
